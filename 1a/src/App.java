@@ -20,5 +20,7 @@ public class App {
 
 
         scanner.close();
+
+        // accepted
     }
 }
